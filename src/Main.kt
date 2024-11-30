@@ -1,3 +1,5 @@
+ // Делала вместе с Беличенко Роксаной
+
 import kotlin.random.Random
 
 fun main() {
